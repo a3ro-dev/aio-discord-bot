@@ -1,0 +1,8 @@
+discord.py
+psutil
+jishaku
+youtube-dl
+pynacl
+FFmpeg
+asyncio
+discord-pretty-help
