@@ -25,6 +25,11 @@ pip install -r requirements.txt
 
 ## Usage
 
+Fill in the `config.py` file as instructed:
+
+```sudo vim config.py
+```
+
 To run the bot, simply run the `main.py` file:
 
 ```
