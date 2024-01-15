@@ -37,7 +37,7 @@ class Embed(commands.Cog):
         if content:
             embed.description = content
         if color:
-            embed.color = discord.Color(int(color, 16))  # Convert hexadecimal color to Discord Color
+            embed.color = discord.Color(color)  # Convert hexadecimal color to Discord Color
         if image:
             embed.set_image(url=image)
         if footer:
